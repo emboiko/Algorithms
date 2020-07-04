@@ -1,5 +1,5 @@
 /**
- * Linked List
+ * Singly Linked List
  * 
  * A [unidirectional] data structure that consists of nodes, 
  * and each node has a value and a pointer to another node, or null. 
